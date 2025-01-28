@@ -74,7 +74,7 @@ For those who don't want to stay active 24/7
     ```
 
 # How to Get Access Token
-1. Go to the Teneo dashboard page use code to register: trb8O
+1. Go to the Teneo dashboard page use code to register: **trb8O**
    
    [https://dashboard.teneo.pro/](https://dashboard.teneo.pro/)
 
