@@ -1,0 +1,6 @@
+*.txt
+!userids.txt
+!proxies.txt
+env
+!requirements.txt
+!data.txt
